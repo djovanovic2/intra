@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<b>Nobody wrote something yet.</b><br>Make the beginning and post something...' => '<b>Ninguém escreveu algo ainda.</b><br>Seja o primeiro a postar algo...',
+  '<b>This profile stream is still empty</b>' => '',
+  '<b>This space is still empty!</b><br>Start by posting something here...' => '<b>Este espaço ainda está vazio! </ b><br>Poste algo aqui...',
+  '<b>Your dashboard is empty!</b><br>Post something on your profile or join some spaces!' => '',
+  '<b>Your profile stream is still empty</b><br>Get started and post something...' => '',
+  'Back to stream' => '',
+  'Content with attached files' => '',
+  'Created by me' => 'Criado por mim',
+  'Creation time' => 'Hora criada',
+  'Filter' => 'Filtro',
+  'Include archived posts' => '',
+  'Last update' => 'Última atualização',
+  'Nothing found which matches your current filter(s)!' => '',
+  'Only private posts' => '',
+  'Only public posts' => '',
+  'Posts only' => '',
+  'Posts with links' => '',
+  'Show all' => 'Mostrar todos',
+  'Sorting' => '',
+  'Where I´m involved' => '',
+);
